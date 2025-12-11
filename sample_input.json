@@ -1,0 +1,12 @@
+{
+  "HR_mean": 70.0,
+  "HR_std": 3.2,
+  "BP_sys": 120.0,
+  "SpO2": 97.0,
+  "Temp": 36.6,
+  "Sleep_hours": 7.0,
+  "Activity_level": 0.5,
+  "prakriti_V": 0,
+  "prakriti_P": 1,
+  "prakriti_K": 0
+}
